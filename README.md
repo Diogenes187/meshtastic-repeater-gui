@@ -4,7 +4,7 @@
 A Meshtastic-based emergency repeater interface with real-time alerts, weather integration, and message broadcasting.
 
 🛠️ Designed by **Diogenes**  
-🖥️ Platform: Windows  
+🖥️ Platform: Windows, Linux  
 📡 Uses: Meshtastic serial interface (USB)
 
 ## Features
