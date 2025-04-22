@@ -1,0 +1,5 @@
+meshtastic==2.2.20
+pillow
+requests
+pyserial
+pypubsub
